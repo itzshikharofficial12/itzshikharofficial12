@@ -1,10 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:1A1A1A&height=200&section=header&text=Shikhar&fontSize=60&fontColor=D4AF37&animation=fadeIn&fontAlignY=38&desc=Building%20things%20on%20the%20web&descAlignY=55&descColor=B8B8B8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2e1a,100:0d1117&height=220&section=header&text=SHIKHAR&fontSize=70&fontColor=39ff88&animation=twinkling&fontAlignY=35&desc=Co-founder%20%40%20Celestia%20Studios%20%7C%20Full-Stack%20Developer&descAlignY=55&descColor=58c4dc" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=900&color=39FF88&center=true&vCenter=true&width=650&lines=const+dev+%3D+%22Shikhar%22%3B;while(true)+%7B+code()%3B+ship()%3B+repeat()%3B+%7D;Building+Celestia+Studios+;Turning+coffee+into+commits+%E2%98%95" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=500&lines=Co-founder+%40+Celestia+Studios;Building+products+%26+writing+code;Design-obsessed+developer" alt="Typing SVG" />
+<img src="https://img.shields.io/badge/Role-Co--founder-39ff88?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Agency-Celestia%20Studios-58c4dc?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Based%20in-India-e8c547?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Status-Building-ff5f9e?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
@@ -12,73 +17,88 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-### `whoami`
-
-```yaml
-role: Co-founder, Development & Strategy @ Celestia Studios
-focus: [product engineering, web development, design systems]
-currently: learning + shipping, in equal measure
-```
-
-<br/>
-
-### `tech_stack`
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,html,css,tailwind,figma,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,postgres,tailwind,figma,git,github,docker,linux&theme=dark&perline=7" />
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+## Currently Building
+
+<div align="center">
+
+### **Orbit** — AI-powered digital-presence audit tool for agencies
+`Sourcing → Auditing → Branded PDF Reports` — built for Celestia Studios' sales pipeline
+
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-### `featured_projects`
+## Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/itzshikharofficial12/celestia_studios_website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itzshikharofficial12&repo=celestia_studios_website&theme=dark&title_color=D4AF37&text_color=B8B8B8&bg_color=0D0D0D&border_color=1A1A1A" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itzshikharofficial12&repo=celestia_studios_website&theme=dark&title_color=39ff88&text_color=c9d1d9&bg_color=0d1117&border_color=39ff88&icon_color=58c4dc" height="165"/>
 </a>
 <a href="https://github.com/itzshikharofficial12/streamline">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itzshikharofficial12&repo=streamline&theme=dark&title_color=D4AF37&text_color=B8B8B8&bg_color=0D0D0D&border_color=1A1A1A" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itzshikharofficial12&repo=streamline&theme=dark&title_color=39ff88&text_color=c9d1d9&bg_color=0d1117&border_color=39ff88&icon_color=58c4dc" height="165"/>
 </a>
 
-</div>
+*(if these cards look broken, GitHub's stats API is momentarily rate-limited — refresh in a minute, or click through directly: [celestia_studios_website](https://github.com/itzshikharofficial12/celestia_studios_website) · [streamline](https://github.com/itzshikharofficial12/streamline))*
 
-<br/>
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-### `github_stats`
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=itzshikharofficial12&show_icons=true&theme=dark&title_color=D4AF37&icon_color=D4AF37&text_color=B8B8B8&bg_color=0D0D0D&border_color=1A1A1A&hide_border=false" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzshikharofficial12&layout=compact&theme=dark&title_color=D4AF37&text_color=B8B8B8&bg_color=0D0D0D&border_color=1A1A1A&hide_border=false" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api?username=itzshikharofficial12&show_icons=true&theme=dark&title_color=39ff88&icon_color=58c4dc&text_color=c9d1d9&bg_color=0d1117&border_color=39ff88&hide_border=false" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzshikharofficial12&layout=compact&theme=dark&title_color=39ff88&text_color=c9d1d9&bg_color=0d1117&border_color=39ff88&hide_border=false" width="38%" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itzshikharofficial12&theme=dark&hide_border=true&background=0D0D0D&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=B8B8B8&currStreakNum=EDEDED&sideNums=EDEDED&dates=808080" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itzshikharofficial12&theme=dark&hide_border=true&background=0d1117&ring=39ff88&fire=e8c547&currStreakLabel=39ff88&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=808080" width="60%" />
 
 </div>
-
-<br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-### `connect`
+## Contribution Snake
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=D4AF37" /></a>
-<a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-0D0D0D?style=for-the-badge&logo=x&logoColor=D4AF37" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=D4AF37" /></a>
-<a href="https://celestiastudios.in"><img src="https://img.shields.io/badge/Celestia_Studios-0D0D0D?style=for-the-badge&logo=todoist&logoColor=D4AF37" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itzshikharofficial12/itzshikharofficial12/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itzshikharofficial12/itzshikharofficial12/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation eating my contribution graph" src="https://raw.githubusercontent.com/itzshikharofficial12/itzshikharofficial12/output/github-contribution-grid-snake.svg">
+</picture>
+
+*(this appears after you enable the GitHub Action below — see setup notes)*
 
 </div>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+<div align="center">
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39ff88)](https://www.linkedin.com/in/YOUR_LINKEDIN)
+[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=39ff88)](https://twitter.com/YOUR_TWITTER)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39ff88)](mailto:YOUR_EMAIL)
+[![Celestia Studios](https://img.shields.io/badge/Celestia_Studios-0d1117?style=for-the-badge&logo=todoist&logoColor=39ff88)](https://celestiastudios.in)
+
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,100:0D0D0D&height=100&section=footer" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=itzshikharofficial12&label=Profile%20Views&color=39ff88&style=for-the-badge&labelColor=0d1117" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2e1a,100:0d1117&height=120&section=footer" width="100%"/>
