@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 20" role="img" aria-label="Section divider">
+  <path d="M0 10h466M534 10h466" stroke="#484f58" stroke-width="1"/>
+  <path d="m500 2 8 8-8 8-8-8z" fill="none" stroke="#58c4dc" stroke-width="1.5"/>
+  <circle cx="500" cy="10" r="2" fill="#39ff88"/>
+</svg>
